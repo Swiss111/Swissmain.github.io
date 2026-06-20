@@ -1,4 +1,4 @@
-# Hi, I'm Oyewole Samuel 👋
+# Hi, I'm Oyewole Samuel - Data Analysis Portfolio👋
 
 ## 📊 Data Analyst | SQL | Power BI | Excel | Tableau
 

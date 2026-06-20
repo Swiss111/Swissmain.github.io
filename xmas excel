@@ -1,13 +1,15 @@
-**Christmas Gift Sales Analysis** *(Interactive Dashboard Creation Using Microsoft Excel)*
+## Christmas Gift Sales Analysis (Interactive Dashboard Creation Using Microsoft Excel)
 
-## Dataset Used- <a href="https://github.com/Swiss111/Swissmain.github.io/blob/a0af92778e8a91a5fce8faab215b7bd483d36f69/assets/images/Copy%20of%20Koya's%20Class.xlsx">Dataset</a>
+- <a href="https://github.com/Swiss111/Swissmain.github.io/blob/a0af92778e8a91a5fce8faab215b7bd483d36f69/assets/images/Copy%20of%20Koya's%20Class.xlsx">Dataset</a>
 
-**Dataset:** Christmas Gift Sales Dataset
+Dataset: Christmas Gift Sales Dataset
 
-* View Dashboard
+* View Dashboard [Dashboard_upload] ![xmas image.png](https://github.com/Swiss111/Swissmain.github.io/blob/f07a524a6a24d6e98885eca136b634bd64b55db5/assets/images/xmas%20image.png)
+
+
+
 * Project Preview:
-[Dashboard_upload] ![xmas image.png](https://github.com/Swiss111/Swissmain.github.io/blob/f07a524a6a24d6e98885eca136b634bd64b55db5/assets/images/xmas%20image.png)
-
+  [Dashboard_upload]
 
 The goal of this Excel dashboard project is to analyze and visualize Christmas gift sales data to help stakeholders understand sales performance, customer behavior, payment preferences, and profitability during the holiday season.
 
@@ -15,23 +17,23 @@ The goal of this Excel dashboard project is to analyze and visualize Christmas g
 
 ## Steps Followed
 
-**Step 1:** Data was imported into Microsoft Excel from the Christmas Gift Sales dataset.
+Step 1: Data was imported into Microsoft Excel from the Christmas Gift Sales dataset.
 
-**Step 2:** Data cleaning and preparation were performed to ensure consistency and accuracy.
+Step 2: Data cleaning and preparation were performed to ensure consistency and accuracy.
 
-**Step 3:** Data types were reviewed and validated for sales, profit, quantity, and customer information.
+Step 3: Data types were reviewed and validated for sales, profit, quantity, and customer information.
 
-**Step 4:** Pivot Tables were created to summarize key business metrics.
+Step 4: Pivot Tables were created to summarize key business metrics.
 
-**Step 5:** Calculated fields were developed to analyze total profit, sales, cost, and order quantities.
+Step 5: Calculated fields were developed to analyze total profit, sales, cost, and order quantities.
 
-**Step 6:** Interactive slicers were added for:
+Step 6: Interactive slicers were added for:
 
 * Country
 * Payment Method
 * Gender
 
-**Step 7:** KPI cards were created to display:
+Step 7: KPI cards were created to display:
 
 * Total Profit
 * Total Cost
@@ -39,28 +41,28 @@ The goal of this Excel dashboard project is to analyze and visualize Christmas g
 * Total Orders
 * Total Quantity
 
-**Step 8:** Pie and donut charts were added to analyze:
+Step 8: Pie and donut charts were added to analyze:
 
 * Profit by Gender
 * Profit by Customer Type
 * Sales by Purchased Type
 
-**Step 9:** Bar and column charts were created to show:
+Step 9: Bar and column charts were created to show:
 
 * Total Profit by Payment Method
 * Total Sales by Country
 * Total Sales by Product Category
 * Total Profit by Christmas Budget
 
-**Step 10:** Dashboard formatting, colors, and layout were customized to create a Christmas-themed report.
+Step 10: Dashboard formatting, colors, and layout were customized to create a Christmas-themed report.
 
-**Step 11:** Slicers were connected to all visuals to enable interactive analysis.
+Step 11: Slicers were connected to all visuals to enable interactive analysis.
 
 ---
 
 # Report Snapshot (Microsoft Excel)
 
-**Christmas Gift Sales Dashboard**
+Christmas Gift Sales Dashboard
 
 ---
 
@@ -74,23 +76,23 @@ Following inferences can be drawn from the dashboard:
 
 ### Total Sales
 
-**28,532,097**
+28,532,097
 
 ### Total Profit
 
-**21,939,258**
+21,939,258
 
 ### Total Cost
 
-**6,592,839**
+6,592,839
 
 ### Total Orders
 
-**41,163**
+41,163
 
 ### Total Quantity Sold
 
-**170,719**
+170,719
 
 ---
 
@@ -98,20 +100,20 @@ Following inferences can be drawn from the dashboard:
 
 ### Total Profit by Gender
 
-* Female customers generated **11,095,358** profit.
-* Male customers generated **10,843,901** profit.
+* Female customers generated 11,095,358 profit.
+* Male customers generated 10,843,901 profit.
 
-**Thus, female customers contributed slightly more profit than male customers.**
+Thus, female customers contributed slightly more profit than male customers.
 
 ---
 
 ### Total Profit by Customer Type
 
-* Children generated **8,554,304** profit.
-* Teen customers generated **6,748,980** profit.
-* Adult customers generated **6,635,974** profit.
+* Children generated 8,554,304 profit.
+* Teen customers generated 6,748,980 profit.
+* Adult customers generated 6,635,974 profit.
 
-**Thus, children were the most profitable customer segment during the Christmas sales period.**
+Thus, children were the most profitable customer segment during the Christmas sales period.
 
 ---
 
@@ -121,17 +123,17 @@ Following inferences can be drawn from the dashboard:
 * Credit Card ranked second.
 * Debit Card, Other methods, and PayPal generated comparatively lower profits.
 
-**Thus, customers paying with cash contributed the highest share of profits.**
+Thus, customers paying with cash contributed the highest share of profits.
 
 ---
 
 ### Total Sales by Purchased Type
 
-* In-store purchases generated **18,539,762** sales.
-* Online purchases generated **5,029,501** sales.
-* Christmas Market purchases generated **4,962,834** sales.
+* In-store purchases generated 18,539,762 sales.
+* Online purchases generated 5,029,501 sales.
+* Christmas Market purchases generated 4,962,834 sales.
 
-**Thus, in-store shopping was the dominant sales channel, accounting for the majority of revenue.**
+Thus, in-store shopping was the dominant sales channel, accounting for the majority of revenue.
 
 ---
 
@@ -140,7 +142,7 @@ Following inferences can be drawn from the dashboard:
 * Germany, United Kingdom, and Netherlands recorded the highest sales.
 * Austria and Italy recorded comparatively lower sales figures.
 
-**Thus, European markets such as Germany and the United Kingdom were the strongest contributors to overall sales.**
+Thus, European markets such as Germany and the United Kingdom were the strongest contributors to overall sales.
 
 ---
 
@@ -150,7 +152,7 @@ Following inferences can be drawn from the dashboard:
 * Electronics, Decorations, and Accessories also performed strongly.
 * Wrapping Paper and Kitchen Appliances generated relatively lower sales.
 
-**Thus, toy products were the most popular Christmas gift category among customers.**
+Thus, toy products were the most popular Christmas gift category among customers.
 
 ---
 
@@ -160,15 +162,15 @@ Following inferences can be drawn from the dashboard:
 * High-budget customers closely followed.
 * Low-budget customers generated the least profit.
 
-**Thus, medium-budget shoppers contributed the greatest profitability to the business.**
+Thus, medium-budget shoppers contributed the greatest profitability to the business.
 
 ---
 
 ## Recommendations
 
-1. Increase inventory and promotions for **Toys** and other top-performing product categories.
-2. Strengthen **in-store marketing campaigns** since the majority of sales originate from physical stores.
-3. Develop targeted promotions for **children-focused products**, as this segment generates the highest profit.
+1. Increase inventory and promotions for Toys and other top-performing product categories.
+2. Strengthen in-store marketing campaigns since the majority of sales originate from physical stores.
+3. Develop targeted promotions for children-focused products, as this segment generates the highest profit.
 4. Encourage digital payment adoption through incentives while maintaining support for cash transactions.
-5. Expand marketing efforts in **Germany, the United Kingdom, and the Netherlands**, where sales performance is strongest.
-6. Create personalized offers for **medium-budget shoppers**, as they provide the highest profitability.
+5. Expand marketing efforts in Germany, the United Kingdom, and the Netherlands, where sales performance is strongest.
+6. Create personalized offers for medium-budget shoppers, as they provide the highest profitability.

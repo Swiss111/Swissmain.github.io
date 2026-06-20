@@ -1,61 +1,82 @@
-# [Your Name] - Data Analysis Portfolio
+# Hi, I'm Oyewole Samuel 👋
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+## 📊 Data Analyst | SQL | Power BI | Excel | Tableau
 
-## About This Portfolio Template
+Welcome to my GitHub portfolio! I am a Data Analyst passionate about transforming raw data into meaningful insights that drive better decision-making. I enjoy working with data visualization, business intelligence, statistical analysis, and data storytelling.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+## 🚀 About Me
+- 📈 Trained in Data Analysis at New Horizons
+- 🔍 Skilled in uncovering trends, patterns, and actionable insights from data
+- 📊 Experienced in creating interactive dashboards and reports
+- 🎯 Open to freelance, remote, and full-time Data Analyst opportunities
 
-## 🚀 Projects
+---
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+## 🛠️ Technical Skills
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Data Analysis
+- SQL
+- Microsoft Excel
+- Python (Pandas, NumPy)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Data Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Data Modeling
+- Power Query
+- DAX
+- Data Modeling
+- Star Schema Design
 
+### Tools & Technologies
+- Git & GitHub
+- Jupyter Notebook
+- Microsoft Office Suite
+- Google Sheets
 
-## 🛠️ Skills
+---
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+## 📂 Featured Projects
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+### 📈 Sales Performance Dashboard
+**Tools:** Power BI, Excel
 
-## 💡 How to Use This Template
+Developed an interactive dashboard to analyze sales performance, identify revenue trends, and monitor key business KPIs.
 
-Creating your own portfolio from this template is a simple, four-step process.
+### 🛒 Customer Segmentation Analysis
+**Tools:** Python, Pandas, Matplotlib
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+Performed customer segmentation analysis to identify purchasing patterns and support targeted marketing strategies.
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+### 📊 Business Intelligence Report
+**Tools:** SQL, Power BI
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+Designed a business intelligence solution that transformed raw business data into actionable insights for decision-making.
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+---
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+## 📜 Certifications
+
+- Data Analysis Training – New Horizons
+- Power BI Data Visualization
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+### 📌 Mission
+
+My goal is to leverage data analytics to solve real-world business problems, uncover valuable insights, and help organizations make data-driven decisions.
+
+⭐ Feel free to explore my repositories and connect with me!

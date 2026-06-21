@@ -418,42 +418,126 @@ footer p {
 }
 
 /* --- 9. Responsive Design --- */
-@media (max-width: 992px) {
-    .skills-table {
-        grid-template-columns: 1fr 1fr;
-    }
-    .skill-column:nth-child(2) {
-        border-right: none;
-    }
-}
-
 @media (max-width: 768px) {
+
     header h1 {
-        font-size: 2.8rem;
+        font-size: 2.4rem;
     }
-    
+
+    header p {
+        font-size: 1rem;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+    }
+
+    nav ul li a {
+        padding: 10px 12px;
+        font-size: 0.9rem;
+    }
+
     .about-content {
         flex-direction: column;
         text-align: center;
+        gap: 30px;
+    }
+
+    .profile-photo {
+        width: 180px;
+        height: 180px;
     }
 
     #projects .container {
-        padding: 0 5px; 
+        padding: 0 15px;
     }
 
     .projects-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+
+    .project-card img {
+        height: 200px;
+    }
+
+    .project-card-content {
+        padding: 20px;
+    }
+
+    .project-card-content h3 {
+        font-size: 1.4rem;
+    }
+
+    .project-buttons {
+        flex-direction: column;
     }
 
     .skills-table {
         grid-template-columns: 1fr;
         padding: 20px;
-        gap: 40px;
+        gap: 30px;
     }
 
     .skill-column:not(:last-child) {
         border-right: none;
         border-bottom: 1px solid #e9ecef;
         padding-bottom: 30px;
+    }
+
+    .contact-form {
+        padding: 25px;
+    }
+
+    .section {
+        padding: 70px 0;
+    }
+
+    .section h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .container {
+        width: 95%;
+        padding: 0 10px;
+    }
+
+    header {
+        padding: 50px 0;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .social-links a {
+        font-size: 1.3rem;
+        margin: 0 8px;
+    }
+
+    nav ul {
+        gap: 5px;
+    }
+
+    nav ul li a {
+        padding: 8px;
+        font-size: 0.85rem;
+    }
+
+    .profile-photo {
+        width: 150px;
+        height: 150px;
+    }
+
+    .project-card-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .btn {
+        padding: 10px;
+        font-size: 0.9rem;
     }
 }
